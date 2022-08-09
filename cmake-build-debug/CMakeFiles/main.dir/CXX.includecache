@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ptssk/CLionProjects/Project3/src/Image.cpp
+Image.h
+C:/Users/ptssk/CLionProjects/Project3/src/Image.h
+fstream
+-
+iostream
+-
+
+C:/Users/ptssk/CLionProjects/Project3/src/Image.h
+string
+-
+iostream
+-
+vector
+-
+
+C:/Users/ptssk/CLionProjects/Project3/src/main.cpp
+iostream
+-
+fstream
+-
+Image.h
+C:/Users/ptssk/CLionProjects/Project3/src/Image.h
+

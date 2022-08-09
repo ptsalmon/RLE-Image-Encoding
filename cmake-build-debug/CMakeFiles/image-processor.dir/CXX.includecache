@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ptssk/CLionProjects/Project3/src/Image.h
+string
+-
+iostream
+-
+vector
+-
+
+C:/Users/ptssk/CLionProjects/Project3/src/image-processor.cpp
+iostream
+-
+fstream
+-
+Image.h
+C:/Users/ptssk/CLionProjects/Project3/src/Image.h
+
